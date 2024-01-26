@@ -1,2 +1,2 @@
 # ytd
-Download YouTube videos.
+Download and convert YouTube videos to MP3.
